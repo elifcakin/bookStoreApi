@@ -1,7 +1,24 @@
 # BookStoreAPI
 
-## Installation
+Developed with Java Version 17 and Spring Boot 3.2.0.
 
+## Libraries
+-  Mysql Connector
+- Hibernate
+- JPA
+- Mapstruct
+- Lombok
+- Testcontainers
+- jUnit
+
+## Techniques
+
+- SOLID
+- Dependency Injection
+- Integration Testing
+
+
+## Installation
 
 
 ```
