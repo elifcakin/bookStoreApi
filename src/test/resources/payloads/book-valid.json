@@ -1,0 +1,13 @@
+{
+  "name":"Harry Potter",
+  "categoryDTO":{
+    "id":1
+  },
+  "authorDTO":{
+    "id":1
+  },
+  "bookStoreDTO":{
+    "id":1
+  }
+
+}
